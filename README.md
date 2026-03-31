@@ -32,5 +32,3 @@ data-studies/
 - [ ] Deep learning & NLP
 
 ---
-
-*Started 2026 · São Sebastião, SP 🇧🇷*
